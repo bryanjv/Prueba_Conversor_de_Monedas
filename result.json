@@ -1,0 +1,89 @@
+{
+    "version": "1.7.0",
+    "autor": "mindicador.cl",
+    "fecha": "2024-12-02T22:00:00.000Z",
+    "uf": {
+        "codigo": "uf",
+        "nombre": "Unidad de fomento (UF)",
+        "unidad_medida": "Pesos",
+        "fecha": "2024-12-02T03:00:00.000Z",
+        "valor": 38273.3
+    },
+    "ivp": {
+        "codigo": "ivp",
+        "nombre": "Indice de valor promedio (IVP)",
+        "unidad_medida": "Pesos",
+        "fecha": "2024-12-02T03:00:00.000Z",
+        "valor": 39595.13
+    },
+    "dolar": {
+        "codigo": "dolar",
+        "nombre": "Dólar observado",
+        "unidad_medida": "Pesos",
+        "fecha": "2024-12-02T03:00:00.000Z",
+        "valor": 977.66
+    },
+    "dolar_intercambio": {
+        "codigo": "dolar_intercambio",
+        "nombre": "Dólar acuerdo",
+        "unidad_medida": "Pesos",
+        "fecha": "2014-11-13T03:00:00.000Z",
+        "valor": 758.87
+    },
+    "euro": {
+        "codigo": "euro",
+        "nombre": "Euro",
+        "unidad_medida": "Pesos",
+        "fecha": "2024-12-02T03:00:00.000Z",
+        "valor": 1031.72
+    },
+    "ipc": {
+        "codigo": "ipc",
+        "nombre": "Indice de Precios al Consumidor (IPC)",
+        "unidad_medida": "Porcentaje",
+        "fecha": "2024-10-01T03:00:00.000Z",
+        "valor": 1
+    },
+    "utm": {
+        "codigo": "utm",
+        "nombre": "Unidad Tributaria Mensual (UTM)",
+        "unidad_medida": "Pesos",
+        "fecha": "2024-12-01T03:00:00.000Z",
+        "valor": 67294
+    },
+    "imacec": {
+        "codigo": "imacec",
+        "nombre": "Imacec",
+        "unidad_medida": "Porcentaje",
+        "fecha": "2024-10-01T03:00:00.000Z",
+        "valor": 2.3
+    },
+    "tpm": {
+        "codigo": "tpm",
+        "nombre": "Tasa Política Monetaria (TPM)",
+        "unidad_medida": "Porcentaje",
+        "fecha": "2024-12-02T03:00:00.000Z",
+        "valor": 5.25
+    },
+    "libra_cobre": {
+        "codigo": "libra_cobre",
+        "nombre": "Libra de Cobre",
+        "unidad_medida": "Dólar",
+        "fecha": "2024-12-02T03:00:00.000Z",
+        "valor": 4.03
+    },
+    "tasa_desempleo": {
+        "codigo": "tasa_desempleo",
+        "nombre": "Tasa de desempleo",
+        "unidad_medida": "Porcentaje",
+        "fecha": "2024-10-01T03:00:00.000Z",
+        "valor": 8.58
+    },
+    "bitcoin": {
+        "codigo": "bitcoin",
+        "nombre": "Bitcoin",
+        "unidad_medida": "Dólar",
+        "fecha": "2024-12-01T03:00:00.000Z",
+        "valor": 97273.62
+    }
+}
